@@ -2,7 +2,9 @@
 
 ## 🎯 Objective
 
-Learn how to define and use classes in Python to model real-world objects and behaviors.
+Learn how to define and use classes in Python to model real-world objects and behaviors. Practice object-oriented programming by creating classes with attributes and methods.
+
+**Skills practiced:** Class definition, object instantiation, methods, attributes, encapsulation
 
 ## 📝 Tasks
 

@@ -2,7 +2,9 @@
 
 ## 🎯 Objective
 
-Students will learn the basics of data analysis using Python. They will load, explore, and analyze a dataset to extract meaningful insights.
+Learn the basics of data analysis using Python by loading, exploring, and analyzing a dataset to extract meaningful insights.
+
+**Skills practiced:** Data loading, exploratory data analysis, data visualization, statistical analysis, data interpretation
 
 ## 📝 Tasks
 
