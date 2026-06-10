@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-and-modularity",
+      "title": "Functions and Modularity",
+      "description": "Master function definition, parameters, return values, scope, and code organization through reusable functions and modules",
+      "path": "assignments/functions-and-modularity",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
