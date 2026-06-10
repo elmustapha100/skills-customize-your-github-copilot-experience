@@ -100,6 +100,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "lists-dicts-data-structures",
+      "title": "Lists, Dicts, and Data Structures",
+      "description": "Master Python's core collection types—lists, dictionaries, and tuples—and learn to organize, manipulate, and search data effectively",
+      "path": "assignments/lists-dicts-data-structures",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
