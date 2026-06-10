@@ -114,6 +114,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-scraping-project",
+      "title": "Web Scraping & Data Collection",
+      "description": "Build a practical web scraper to fetch, parse, clean, and store real-world data. A full-week intermediate project combining HTTP requests, HTML parsing, error handling, and data persistence.",
+      "path": "assignments/web-scraping-project",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
