@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-io-and-error-handling",
+      "title": "File I/O and Error Handling",
+      "description": "Master reading and writing files, handling exceptions gracefully, and building robust code that processes different file formats",
+      "path": "assignments/file-io-and-error-handling",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
